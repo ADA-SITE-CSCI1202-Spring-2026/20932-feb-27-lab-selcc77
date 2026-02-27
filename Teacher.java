@@ -18,6 +18,7 @@ public class Teacher extends Person {
     public String getCourses() {
         return courses;
     }
+    
 
     public void setDepartment(String department) {
         this.department = department;
